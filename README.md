@@ -13,7 +13,7 @@
 + **Run Time Polymorphism**
 <br> Polymorphism that exist at the **Run Time/ Time of execution** is called Run time Polymorphism. Run-time polymorphism is achieved by Method Overriding.
   + **_Method Overriding_**
-<br> When a method in a subclass has the ***SAME NAME, SAME PARAMETER  & SAME RETURN TYPE(or sub-type) as a method*** in its super-class, then the method in the subclass is said to override the method in the super-class. <br>
+<br> When a method in a subclass has the ***SAME NAME, SAME PARAMETER  & SAME RETURN TYPE(or sub-type) as a method*** in its super-class, then the method in the subclass is said to override the method in the super-class. <br> For Example: <br>
 ![image](https://user-images.githubusercontent.com/107999400/214625840-b68db069-741c-4d32-8d4c-2d18dad39256.png)
 
 
