@@ -22,7 +22,7 @@
  + **Architecture of JDBC**
   ![image](https://user-images.githubusercontent.com/107999400/214884827-60655980-174c-421d-bd01-f13456e890f7.png)
 
-
+arey arey 
 
 
 
